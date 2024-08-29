@@ -1,0 +1,4 @@
+DS_store
+cypress/screenshots/
+cypress/videos/
+node_modules/
